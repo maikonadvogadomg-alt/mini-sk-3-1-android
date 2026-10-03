@@ -1,0 +1,13 @@
+{
+  "titulo": "Mini-SK-3",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": ""
+    }
+  ]
+}
